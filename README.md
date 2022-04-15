@@ -1,2 +1,2 @@
-# Database-1-
+# Database1
 Community Clinic Database
